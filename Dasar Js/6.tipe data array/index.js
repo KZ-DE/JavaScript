@@ -46,3 +46,10 @@ console.log("");
 // mengkososngkan nilai pada index tertentu
 delete a[(1, 2)];
 console.table(a);
+
+// array 2 dimensi
+let b = [1, 2, 3, 3, 3, 4, 5, 5, 4, 5];
+let z = [1, 2, 3, 4, 1, 2, 3, 3, 1, 2, 4, 1];
+let c = [b, z];
+console.log(c);
+console.table(c);
