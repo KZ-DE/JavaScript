@@ -26,3 +26,7 @@ console.log(mahasiswa);
 
 // di lihat dengan tabel
 console.table(mahasiswa);
+
+// menggunakan console.info
+console.log(`Nama : ${mahasiswa.nama}`);
+console.info(`Nama : ${mahasiswa.nama}`);
