@@ -1,3 +1,7 @@
+/*
+Di javascript untuk membuat variabel menggunakan sintak let / const untuk constanta
+*/
+
 // tipe data number (int dan float jadi 1)
 let a, b;
 a = 10;
